@@ -1,0 +1,27 @@
+{
+  "name": "ContractVerification",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "config": "npm i && npx hardhat compile"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@balancer-labs/v2-interfaces": "^0.4.0",
+    "@openzeppelin/contracts": "^4.9.6",
+    "@openzeppelin/contracts-upgradeable": "^4.8.1",
+    "@openzeppelin/hardhat-upgrades": "^3.1.0",
+    "bn.js": "^5.2.1",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.2",
+    "express": "^4.21.0",
+    "fs": "^0.0.1-security",
+    "hardhat": "^2.22.9",
+    "solium": "^1.1.5"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0"
+  }
+}
