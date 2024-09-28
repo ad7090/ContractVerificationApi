@@ -2,7 +2,7 @@ require("@nomicfoundation/hardhat-toolbox");
 module.exports = {
   defaultNetwork: "Net",
   networks: {
-    Net: {
+    Net: { 
       url: "https://eth-sepolia.g.alchemy.com/v2/",
     },
 
