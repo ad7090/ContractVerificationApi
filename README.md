@@ -13,15 +13,10 @@ This Node.js application provides a RESTful API to verify Ethereum smart contrac
 ## Installation
 
 1. Clone the repository or copy the project files.
-2. Install the required dependencies by running:
-
-   ```bash
-   npm install
-   ```
 
 ## Running the App
 
-1. To start the app, run:
+1. nstall the required dependencies and config the app, run:
 
    ```bash
    npm run config
